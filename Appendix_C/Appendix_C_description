@@ -1,0 +1,2 @@
+This folder includes summaries of the IRT models reported in Chpater 3. These models were fit in R (version 3.6.1.) using
+the glmer() function from the lme4 package (version 1.1-21).
