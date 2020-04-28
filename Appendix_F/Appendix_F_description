@@ -1,0 +1,2 @@
+This folder includes summaries of the grammatical gender agreement models reported in Chpater 4. These models were fit
+in R (version 3.6.1.) using the brm() function from the brms package (version 2.12.0.).
